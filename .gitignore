@@ -27,6 +27,10 @@ dependency-reduced-pom.xml
 build/
 !gradle/wrapper/gradle-wrapper.jar
 
+.DS_Store
+
+bin/
+
 # IDE
 .idea/
 *.iws
